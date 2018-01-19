@@ -16,12 +16,8 @@ public class C5_34 {
      */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        //S = 0 R = 1 P = 2
-        //3.17 for game directions. 3.14 assignment for reference.
-        //0 beats 2, 1 beats 0, 2 beats 1, 
-        int guess, answer; // you and comp
+        int guess, answer;
         int countg = 0, counta = 0;
-
         do {
             System.out.print("Enter 0, 1, or 2: ");
             guess = input.nextInt();

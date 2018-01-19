@@ -71,9 +71,9 @@ public class C6_18 {
     /**
      * hasDigits Method
      *
-     * @param pass
-     * @param n
-     * @return boolean ture or false
+     * @param pass user input
+     * @param n default integer
+     * @return boolean true or false
      */
     public static boolean hasDigits(String pass, int n) {
         int counter = 0;

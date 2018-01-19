@@ -16,9 +16,6 @@ public class P6 {
      */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        /*Pound sterling Euro Yen to Dollar
-        dollars > 100 5%. d< 100 10%. 
-        Method prompt, exchange rate. while loop */
         double total = 0;
 
         System.out.print("How many Euros does a dollar buy? ");
@@ -61,9 +58,9 @@ public class P6 {
     /**
      * convertLoop Method
      *
-     * @param dollars
-     * @param currencyBeingConverted
-     * @return double
+     * @param dollars user input
+     * @param currencyBeingConverted type of currency
+     * @return double exchange rate
      */
     public static double convertLoop(double dollars, double currencyBeingConverted) {
 

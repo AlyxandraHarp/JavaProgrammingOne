@@ -16,7 +16,6 @@ public class C5_46 {
      */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        //string reverse
         System.out.print("Enter string: ");
         String s1 = input.nextLine();
         System.out.println(("The reversed string is ") + (new StringBuffer(s1).reverse().toString()));
