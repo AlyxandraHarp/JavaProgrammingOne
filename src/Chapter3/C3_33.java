@@ -1,12 +1,12 @@
 package Chapter3;
+
 import java.util.Scanner;
+
 /**
  * Program to check weight and price of packages
  *
  * @author Alyxandra Harp
  */
-
-
 public class C3_33 {
 
     /**

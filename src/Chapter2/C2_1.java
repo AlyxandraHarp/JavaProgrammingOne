@@ -1,12 +1,12 @@
 package Chapter2;
+
 import java.util.Scanner;
+
 /**
  * Program to find Fahrenheit
  *
  * @author Alyxandra Harp
  */
-
-
 public class C2_1 {
 
     /**

@@ -1,12 +1,12 @@
 package Chapter4;
+
 import java.util.Scanner;
+
 /**
  * Program to tell college major and year
  *
  * @author Alyxandra Harp
  */
-
-
 public class C4_18 {
 
     /**

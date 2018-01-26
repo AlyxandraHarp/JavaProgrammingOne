@@ -3,8 +3,9 @@ package Chapter7;
 import java.util.Scanner;
 
 /**
+ * Program to compare two lists
  *
- * @author ah0987212
+ * @author Alyxandra Harp
  */
 public class C7_26 {
 

@@ -1,12 +1,12 @@
 package Chapter4;
+
 import java.util.Scanner;
+
 /**
  * Program to check string from user
  *
  * @author Alyxandra Harp
  */
-
-
 public class C4_22 {
 
     /**
