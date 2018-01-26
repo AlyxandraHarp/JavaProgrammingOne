@@ -1,12 +1,12 @@
 package Chapter4;
+
 import java.util.Scanner;
+
 /**
  * Program to compare two bids
  *
  * @author Alyxandra Harp
  */
-
-
 public class P4 {
 
     /**

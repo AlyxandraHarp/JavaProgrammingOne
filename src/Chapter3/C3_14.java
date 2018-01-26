@@ -1,12 +1,12 @@
 package Chapter3;
+
 import java.util.Scanner;
+
 /**
  * Program for a coin flip game
  *
  * @author Alyxandra Harp
  */
-
-
 public class C3_14 {
 
     /**

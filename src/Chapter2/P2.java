@@ -1,4 +1,5 @@
 package Chapter2;
+
 import java.util.Scanner;
 
 /**
@@ -6,7 +7,6 @@ import java.util.Scanner;
  *
  * @author Alyxandra Harp
  */
-
 public class P2 {
 
     /**

@@ -1,12 +1,12 @@
 package Chapter4;
+
 import java.util.Scanner;
+
 /**
  * Program to create a payroll of an employee
  *
  * @author Alyxandra Harp
  */
-
-
 public class C4_23 {
 
     /**
